@@ -5,4 +5,4 @@ Cada Arquivo trata de um assunto e é um executável que demonstrará os conceit
 
 Tópicos cobertos:
 
-- Tipos e Variáveis
+- Tipos e Declarações de variáveis
