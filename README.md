@@ -1,11 +1,11 @@
 # aprender-golang
-Repositório com intuito de facilitar o ensino da linguagem
+Repositório com intuito de facilitar o ensino da linguagem.
 
-Cada Arquivo trata de um assunto e é um executável que demonstrará os conceitos da linguagem através dos códigos e comentários
+Cada Arquivo trata de um assunto e é um executável que demonstrará os conceitos da linguagem através dos códigos e comentários.
 
-Tópicos cobertos:
+## Tópicos cobertos:
 
-## Tipos e Declarações de variáveis
+### Tipos e Declarações de variáveis
   01. Declarar variável
   02. Atribuir valor à variável
   03. Conversões de valores
@@ -16,7 +16,7 @@ Tópicos cobertos:
   08. Rune
   09. Map
   10. Struct
-## Funções
+### Funções
   01. Declarar funcoes
   02. Ler valor da linha de comando
   03. Validar entrada
