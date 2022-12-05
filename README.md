@@ -28,3 +28,4 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
   02. Trabalhar com Tipos;
   03. Adicionar Métodos a Tipos;
   04. Tipos dentro de Tipos (Embedded Types);
+  05. Declarar e usar Interfaces.
