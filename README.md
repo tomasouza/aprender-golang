@@ -23,3 +23,8 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
   04. Atribuir Função à Variável;
   05. Iterando sobre funções;
   06. Decidir qual função invocar (Caso de uso de variável de função).
+### Métodos e Interfaces
+  01. Declarar Tipos;
+  02. Trabalhar com Tipos;
+  03. Adicionar Métodos a Tipos;
+  04. Tipos dentro de Tipos (Embedded Types);
