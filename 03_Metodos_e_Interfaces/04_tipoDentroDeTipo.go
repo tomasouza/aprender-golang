@@ -38,4 +38,8 @@ func main() {
 	mago.aprenderMagia("Haducken")
 	fmt.Println("Humano:", humano)
 	fmt.Println("Mago:", mago)
+	fmt.Println("Nome do mago:", mago.Nome)
+	fmt.Println("Sobrenome do mago:", mago.Sobrenome)
+	fmt.Println("Data de nascimento do mago:", mago.DataNascimento)
+	fmt.Println("Magias do mago:", mago.Magias)
 }
