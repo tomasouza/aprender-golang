@@ -17,18 +17,18 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
   09. [Map;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/09_map.go)
   10. [Struct.](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/10_struct.go)
 ### Funções
-  01. Declarar funcoes;
-  02. Ler valor da linha de comando;
-  03. Validar entrada;
-  04. Atribuir Função à Variável;
-  05. Iterando sobre funções;
-  06. Decidir qual função invocar (Caso de uso de variável de função).
+  01. [Declarar funcoes;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/01_declararFuncao.go)
+  02. [Ler valor da linha de comando;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/02_lerValorDaLinhaDeComando.go)
+  03. [Validar entrada;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/03_validarEntrada.go)
+  04. [Atribuir Função à Variável;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/04_atribuirFuncaoAVariavel.go)
+  05. [Iterando sobre funções;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/05_IterarFuncoes.go)
+  06. [Decidir qual função invocar (Caso de uso de variável de função).](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/06_decidirQualFuncaoInvocar.go)
 ### Métodos e Interfaces
-  01. Declarar Tipos;
-  02. Trabalhar com Tipos;
-  03. Adicionar Métodos a Tipos;
-  04. Tipos dentro de Tipos (Embedded Types);
-  05. Declarar e usar Interfaces.
+  01. [Declarar Tipos;](https://github.com/tomasouza/aprender-golang/blob/master/03_Metodos_e_Interfaces/01_declararTipo.go)
+  02. [Trabalhar com Tipos;](https://github.com/tomasouza/aprender-golang/blob/master/03_Metodos_e_Interfaces/02_trabalharComTipo.go)
+  03. [Adicionar Métodos a Tipos;](https://github.com/tomasouza/aprender-golang/blob/master/03_Metodos_e_Interfaces/03_adicionarMetodoATipo.go)
+  04. [Tipos dentro de Tipos (Embedded Types);](https://github.com/tomasouza/aprender-golang/blob/master/03_Metodos_e_Interfaces/04_tipoDentroDeTipo.go)
+  05. [Declarar e usar Interfaces.](https://github.com/tomasouza/aprender-golang/blob/master/03_Metodos_e_Interfaces/05_declararEUsarInterface.go)
 ### Estruturas de Controle
-  01. If
-  02. For  
+  01. [If](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/01_if.go)
+  02. [For](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/02_for.go)
