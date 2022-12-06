@@ -6,16 +6,16 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
 ## Tópicos cobertos:
 
 ### Tipos e Declarações de variáveis
-  01. Declarar variável;
-  02. Atribuir valor à variável;
-  03. Conversões de valores;
-  04. Declarar e atribuir valor a variável;
-  05. String;
-  06. Slice;
-  07. Substring;
-  08. Rune;
-  09. Map;
-  10. Struct.
+  01. [Declarar variável;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/01_declararVariavel.go)
+  02. [Atribuir valor à variável;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/02_atribuirValorAVariavel.go)
+  03. [Conversões de valores;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/03_conversoesDeValores.go)
+  04. [Declarar e atribuir valor a variável;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/04_declararEAtribuirValor.go)
+  05. [String;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/05_string.go)
+  06. [Slice;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/06_slice.go)
+  07. [Substring;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/07_substrings.go)
+  08. [Rune;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/08_rune.go)
+  09. [Map;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/09_map.go)
+  10. [Struct.](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/10_struct.go)
 ### Funções
   01. Declarar funcoes;
   02. Ler valor da linha de comando;
