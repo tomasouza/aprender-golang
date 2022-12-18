@@ -15,7 +15,9 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
   07. [Substring;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/07_substrings.go)
   08. [Rune;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/08_rune.go)
   09. [Map;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/09_map.go)
-  10. [Struct.](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/10_struct.go)
+  10. [Struct;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/10_struct.go)
+  11. [Anonymous Struct;](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/11_anonymousStruct.go)
+  12. [Comparar e converter struct.](https://github.com/tomasouza/aprender-golang/blob/master/01_Tipos_e_Declara%C3%A7%C3%B5es_de_Vari%C3%A1veis/12_compararEConverterStruct.go) 
 ### Funções
   01. [Declarar funcoes;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/01_declararFuncao.go)
   02. [Ler valor da linha de comando;](https://github.com/tomasouza/aprender-golang/blob/master/02_Fun%C3%A7%C3%B5es/02_lerValorDaLinhaDeComando.go)
