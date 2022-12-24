@@ -4,13 +4,13 @@ import (
 	"fmt"
 )
 
+type Func func() (string, error)
+
 func main() {
 	/* declarando um slice de funcoes
 	Verifique que a assinatura precisa ser a mesma para que consigamos colocar mais funcoes no slice
 	*/
-	funcs := []func() (string, error){
-		funcaoUm, funcaoDois, funcaoTres, funcaoQuatro,
-	}
+	funcs := []Func{funcaoUm, funcaoDois, funcaoTres, funcaoQuatro}
 	ops := []string{
 		"funcaoUm", "funcaoDois", "funcaoTres", "funcaoQuatro",
 	}
