@@ -1,4 +1,4 @@
-# aprender-golang
+# Aprender Go Lang
 Repositório com intuito de facilitar o ensino da linguagem.
 
 Cada arquivo trata de um assunto e é um executável que demonstrará os conceitos da linguagem através dos códigos e comentários.
@@ -34,3 +34,10 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
 ### Estruturas de Controle
   01. [If](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/01_if.go)
   02. [For](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/02_for.go)
+
+
+## Contributors
+
+Obrigado por contribuir para Aprender Go Lang!
+
+[![Contributors](https://contrib.rocks/image?repo=tomasouza/aprender-golang)](https://github.com/tomasouza/aprender-golang/graphs/contributors)
