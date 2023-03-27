@@ -34,7 +34,16 @@ Cada arquivo trata de um assunto e é um executável que demonstrará os conceit
 ### Estruturas de Controle
   01. [If](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/01_if.go)
   02. [For](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/02_for.go)
-
+  03. [Shadowing variáveis](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/03_Shadowing_Variavel.go)
+  04. [Shadowing pacotes](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/03_Shadowing_Variavel.go)
+  05. [Break](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/05_Break.go)
+  06. [Continue](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/06_Continue.go)
+  07. [Iterando sobre mapas](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/07_Iterando_sobre_mapas.go)
+  08. [Iterando sobre Strings](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/08_Iterando_Sobre_Strings.go)
+  09. [For range copia](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/09_for_range_copia.go)
+  10. [Labels](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/10_Labels.go)
+  11. [Switch](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/11_Switch.go)
+  12. [Blank Switch](https://github.com/tomasouza/aprender-golang/blob/master/04_Estruturas_de_Controle/12_Blank_Switch.go)
 
 ## Contributors
 
